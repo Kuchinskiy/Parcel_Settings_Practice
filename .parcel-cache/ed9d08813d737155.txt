@@ -4,7 +4,7 @@
 88D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\transformer-postcss133115403918871655 1
 80D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\is-json\.travis.yml133115403916466969 0
 124D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\package.json133115403921697349 0
-60D:\Git_Parcel_Settings\Parcel_Settings_Practice\package.json133115446456825392 0
+60D:\Git_Parcel_Settings\Parcel_Settings_Practice\package.json133115450884949205 0
 93D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\msgpackr-extract\src\.vs\src\v16133115403919370323 1
 90D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\terser\lib\compress\inline.js133115403924536534 0
 79D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\acorn\CHANGELOG.md133115403918719514 0

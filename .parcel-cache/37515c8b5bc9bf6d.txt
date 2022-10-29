@@ -4,7 +4,7 @@
 88D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\transformer-postcss133115403918871655 1
 80D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\is-json\.travis.yml133115403916466969 0
 124D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\package.json133115403921697349 0
-60D:\Git_Parcel_Settings\Parcel_Settings_Practice\package.json133115428221589991 0
+60D:\Git_Parcel_Settings\Parcel_Settings_Practice\package.json133115453194837676 0
 93D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\msgpackr-extract\src\.vs\src\v16133115403919370323 1
 90D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\terser\lib\compress\inline.js133115403924536534 0
 79D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\acorn\CHANGELOG.md133115403918719514 0
@@ -26,7 +26,7 @@
 99D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\transformer-babel\lib\types.js133115403920886811 0
 85D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\abortcontroller-polyfill133115403920168195 1
 84D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\optimizer-image133115403928585420 1
-52D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist133115431037188115 1
+52D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist133115454843790614 1
 87D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\css-tree\lib\syntax\pseudo133115403928403648 1
 74D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\svgo\bin\svgo133115403913615628 0
 82D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\csso\lib\clean\Raw.js133115403924414968 0
@@ -75,7 +75,7 @@
 62D:\Git_Parcel_Settings\Parcel_Settings_Practice\src\index.html133115416139843910 0
 81D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\htmlnano\lib\modules133115403923275185 1
 101D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@jridgewell\set-array\dist\set-array.mjs133115403917254836 0
-60D:\Git_Parcel_Settings\Parcel_Settings_Practice\src\index.js133115430768430654 0
+60D:\Git_Parcel_Settings\Parcel_Settings_Practice\src\index.js133115454842227807 0
 140D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser\browser.js133115403920697326 0
 75D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\csso\README.md133115403925566104 0
 67D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\parcel133115403918051306 1
@@ -2139,7 +2139,7 @@
 89D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\escape-string-regexp\license133115403914064425 0
 94D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\escape-string-regexp\package.json133115403912466591 0
 85D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\reporter-cli\lib133115403920267925 1
-74D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.975ef6c8.js.map133115431037178168 0
+74D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.975ef6c8.js.map133115454843790614 0
 92D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\caniuse-lite\data\regions\GN.js133115403932682439 0
 91D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\escape-string-regexp\readme.md133115403914771840 0
 88D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\css-tree\lib\utils\clone.js133115403920777122 0
@@ -2185,7 +2185,7 @@
 84D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\entities\lib\index.d.ts133115403922796454 0
 112D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\caniuse-lite\data\features\css-container-queries.js133115403929555823 0
 88D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\entities\lib\index.d.ts.map133115403921395452 0
-63D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.html133115426668939196 0
+63D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.html133115453129684490 0
 95D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\caniuse-lite\dist\lib\supported.js133115403936384801 0
 82D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\entities\lib\index.js133115403918629765 0
 78D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\entities\lib\maps133115403919938814 1
@@ -3467,10 +3467,10 @@
 99D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@swc\helpers\lib\_wrap_native_super.js133115403927404511 0
 77D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@sideway\formula133115428219368214 1
 83D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\runtime-js\lib133115403923145509 1
-82D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@sideway\pinpoint\lib133115428219134179 1
+82D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@sideway\pinpoint\lib133115428219388162 1
 89D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@sideway\pinpoint\LICENSE.md133115428219338295 0
 91D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@sideway\pinpoint\lib\index.js133115428219134179 0
-81D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@sideway\formula\lib133115428219134179 1
+81D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@sideway\formula\lib133115428219398138 1
 90D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@sideway\formula\package.json133115428219298402 0
 82D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\packager-html133115403915326328 1
 87D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@sideway\formula\README.md133115428219378191 0
@@ -4183,7 +4183,7 @@
 112D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@jridgewell\gen-mapping\dist\types\gen-mapping.d.ts133115403918410354 0
 118D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@jridgewell\gen-mapping\dist\types\sourcemap-segment.d.ts133115403919240664 0
 71D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@hapi\topo133115428219348268 1
-75D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@hapi\topo\lib133115428219134179 1
+75D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@hapi\topo\lib133115428219398138 1
 84D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@hapi\hoek\lib\reach.js133115428219896806 0
 82D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@hapi\topo\LICENSE.md133115428219328352 0
 86D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@hapi\topo\lib\index.d.ts133115428219418121 0
@@ -4275,4 +4275,4 @@
 76D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\.bin\semver.ps1133115403938191734 0
 70D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\.bin\svgo133115403938191734 0
 72D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\.bin\terser133115403938191734 0
-70D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.975ef6c8.js133115431037128323 0
+70D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.975ef6c8.js133115454843790614 0

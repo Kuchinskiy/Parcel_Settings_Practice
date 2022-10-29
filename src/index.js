@@ -1,3 +1,3 @@
 import validatePasword from './validate-password';
 
-console.log(validatePasword('qwerty9876'));
+console.log(validatePasword('qwerty9876Gty'));
