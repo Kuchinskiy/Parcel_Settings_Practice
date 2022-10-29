@@ -2185,7 +2185,7 @@
 84D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\entities\lib\index.d.ts133115403922796454 0
 112D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\caniuse-lite\data\features\css-container-queries.js133115403929555823 0
 88D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\entities\lib\index.d.ts.map133115403921395452 0
-63D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.html133115453129684490 0
+63D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.html133115464582236596 0
 95D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\caniuse-lite\dist\lib\supported.js133115403936384801 0
 82D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\entities\lib\index.js133115403918629765 0
 78D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\entities\lib\maps133115403919938814 1
