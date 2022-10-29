@@ -1,1 +1,1 @@
-# Parcel_Settings_Practice
+# install_parcel_settings
