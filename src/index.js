@@ -1,4 +1,4 @@
-import './css/common.css';
+import '../src/css/common.css';
 
 // validate password -- practice
 
