@@ -2,10 +2,11 @@
   "name": "parcel_settings_practice",
   "version": "1.0.0",
   "description": "NPM basic",
+  "source": "src/index.js",
   "main": "dist/index.js",
   "scripts": {
-    "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html"
+    "dev": "parcel",
+    "build": "parcel build"
   },
   "repository": {
     "type": "git",
