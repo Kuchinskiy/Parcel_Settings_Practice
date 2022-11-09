@@ -4,8 +4,6 @@
   "description": "NPM basic",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
-    "prod": "babel src -d dist",
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html"
   },
@@ -20,9 +18,6 @@
   },
   "homepage": "https://github.com/Kuchinskiy/Parcel_Settings_Practice#readme",
   "devDependencies": {
-    "@babel/cli": "^7.19.3",
-    "@babel/core": "^7.20.2",
-    "@babel/preset-env": "^7.20.2",
     "parcel": "^2.8.0"
   }
 }
