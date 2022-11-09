@@ -4,7 +4,8 @@
   "description": "NPM basic",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "build": "babel src -d dist"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Kuchinskiy/Parcel_Settings_Practice/issues"
   },
-  "homepage": "https://github.com/Kuchinskiy/Parcel_Settings_Practice#readme"
+  "homepage": "https://github.com/Kuchinskiy/Parcel_Settings_Practice#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.20.2",
+    "@babel/preset-env": "^7.20.2"
+  }
 }
