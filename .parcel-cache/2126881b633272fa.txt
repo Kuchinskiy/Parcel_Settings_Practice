@@ -6,7 +6,7 @@
 97D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\svgo\node_modules\commander\index.js133124652409118294 0
 80D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\is-json\.travis.yml133124652411722788 0
 124D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\package.json133124652422698870 0
-60D:\Git_Parcel_Settings\Parcel_Settings_Practice\package.json133124838714884697 0
+60D:\Git_Parcel_Settings\Parcel_Settings_Practice\package.json133124852642718714 0
 93D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\msgpackr-extract\src\.vs\src\v16133124652417791364 1
 90D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\terser\lib\compress\inline.js133124652428293911 0
 79D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\acorn\CHANGELOG.md133124652415770283 0
@@ -28,7 +28,7 @@
 99D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\transformer-babel\lib\types.js133124652423107773 0
 85D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\abortcontroller-polyfill133124652419526736 1
 84D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\optimizer-image133124652486953763 1
-52D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist133124840629078579 1
+52D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist133124853474704344 1
 87D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\css-tree\lib\syntax\pseudo133124652437688794 1
 74D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\svgo\bin\svgo133124652408246665 0
 103D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@jridgewell\source-map\dist\source-map.mjs133124652416139298 0
@@ -360,7 +360,7 @@
 83D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\resolve-from\readme.md133124652409805638 0
 119D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\optimizer-image\parcel-image.linux-arm64-musl.node133124652476605450 0
 70D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\path-type133124652410582577 1
-65D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.js.map133124840629068603 0
+65D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.js.map133124853474694370 0
 106D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\caniuse-lite\data\features\css-paged-media.js133124596308448481 0
 92D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\source-map\package.json133124652422329853 0
 101D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\css-tree\lib\syntax\node\MediaFeature.js133124652435145589 0
@@ -2526,7 +2526,7 @@
 94D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\css-tree\lib\syntax\pseudo\has.js133124652432003996 0
 104D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\caniuse-lite\data\features\mediarecorder.js133124596312671715 0
 117D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\caniuse-lite\data\features\same-site-cookie-attribute.js133124596314479722 0
-61D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.js133124840629008766 0
+61D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.js133124853474664445 0
 85D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@babel\highlight\LICENSE133124596290667424 0
 92D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\caniuse-lite\data\regions\IQ.js133124596311584680 0
 110D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@swc\helpers\lib\_define_enumerable_properties.js133124652428134330 0
