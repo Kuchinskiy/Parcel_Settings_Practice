@@ -1,1 +1,4 @@
-console.log('qwerty1234567');
+import {fetchUsers, idUser} from './app.js';
+
+console.log(fetchUsers);
+console.log(idUser);
