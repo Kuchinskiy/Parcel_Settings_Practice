@@ -1,8 +1,9 @@
 {
   "name": "parcel_settings_practice",
+  "browserslist": "> 0.25%, not dead",
   "version": "1.0.0",
   "description": "NPM basic",
-  "source": "src/index.js",
+  "source": "src/index.html",
   "main": "dist/index.js",
   "targets": {
     "main": false
