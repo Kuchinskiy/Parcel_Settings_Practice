@@ -20,10 +20,10 @@
 
 
 // Именованый экспорт
-export const fetchUsers = () => {
-   console.log('fetchUsers');
-}
+// export const fetchUsers = () => {
+//    console.log('fetchUsers');
+// }
 
-export function idUser (id) {
-   console.log('idUser');
-}
+// export function idUser (id) {
+//    console.log('idUser');
+// }

@@ -1,4 +1,5 @@
-import {fetchUsers, idUser} from './app.js';
+// import {fetchUsers, idUser} from './app.js';
 
-console.log(fetchUsers);
-console.log(idUser);
+// console.log(fetchUsers);
+// console.log(idUser);
+

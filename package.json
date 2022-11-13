@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Kuchinskiy/Parcel_Settings_Practice#readme",
   "devDependencies": {
-    "parcel": "^2.8.0"
+    "parcel": "^2.8.0",
+    "parcel-plugin-handlebars-precompile": "^1.0.2"
   }
 }
