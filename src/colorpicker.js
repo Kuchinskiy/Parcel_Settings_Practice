@@ -1,6 +1,5 @@
-// import colorCardsTpl from './template/color-cards.hbs';
-// import colors from './colors.json';
-// import './css/colorpicker.css';
+import colorCardsTpl from './template/color-cards.hbs';
+import colors from './colors.json';
 
 
 const paletteContainer = document.querySelector('.js-palette');
