@@ -6,7 +6,7 @@
   "source": "src/index.html",
   "main": "dist/index.js",
   "targets": {
-    "main": false
+    "main": true
   },
   "scripts": {
     "dev": "parcel",
