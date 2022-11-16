@@ -4,7 +4,7 @@
 79D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\yaml\browser\types133124652428473428 1
 76D:\Git_Parcel_Settings\Parcel_Settings_Practice\src\template\color-cards.hbs133129953341927945 0
 91D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\core\src\Validation.js133124652449388709 0
-60D:\Git_Parcel_Settings\Parcel_Settings_Practice\package.json133129958479895388 0
+60D:\Git_Parcel_Settings\Parcel_Settings_Practice\package.json133130675561800032 0
 93D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\postcss-merge-rules\package.json133128317739912589 0
 80D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\lodash\fp\padEnd.js133128317832268298 0
 79D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\acorn\CHANGELOG.md133124652415770283 0
