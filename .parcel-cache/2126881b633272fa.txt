@@ -4,7 +4,7 @@
 79D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\yaml\browser\types133124652428473428 1
 76D:\Git_Parcel_Settings\Parcel_Settings_Practice\src\template\color-cards.hbs133129953341927945 0
 91D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\core\src\Validation.js133124652449388709 0
-60D:\Git_Parcel_Settings\Parcel_Settings_Practice\package.json133130675561800032 0
+60D:\Git_Parcel_Settings\Parcel_Settings_Practice\package.json133130677112044188 0
 93D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\postcss-merge-rules\package.json133128317739912589 0
 80D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\lodash\fp\padEnd.js133128317832268298 0
 79D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\acorn\CHANGELOG.md133124652415770283 0
@@ -36,7 +36,7 @@
 85D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\abortcontroller-polyfill133124652419526736 1
 84D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\optimizer-image133124652486953763 1
 92D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\postcss-normalize-url\README.md133128317729841114 0
-52D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist133129960476512469 1
+52D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist133130677784189083 1
 75D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\tr46\README.md133128317714977854 0
 106D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\jsdom\lib\jsdom\living\helpers\stylesheets.js133128317818903297 0
 91D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\xml-name-validator\LICENSE.txt133128317715017747 0
@@ -2165,7 +2165,7 @@
 97D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\caniuse-lite\data\features\bigint.js133124596305346524 0
 82D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\mdn-data\package.json133124652419626463 0
 87D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\postcss-ordered-values\src133128317764397102 1
-75D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.9b8ecf18.css.map133129960476502498 0
+75D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.9b8ecf18.css.map133130677784179134 0
 89D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\cosmiconfig\dist\Explorer.js133124652409235589 0
 98D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\svgo\plugins\moveElemsAttrsToGroup.js133124652426957483 0
 131D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\namespace.js133128317795456582 0
@@ -3630,7 +3630,7 @@
 78D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\parcel\lib\cli.js133129199321613368 0
 102D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\utils\src\generateBuildMetrics.js133124652430238708 0
 110D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\postcss-merge-longhand\types\lib\mergeValues.d.ts133128317796414326 0
-71D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.9b8ecf18.css133129960476422708 0
+71D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.9b8ecf18.css133130677784090517 0
 109D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\postcss-merge-longhand\types\lib\minifyTrbl.d.ts133128317796613796 0
 82D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\lodash\_baseAssign.js133128317784857533 0
 108D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\postcss-merge-longhand\types\lib\parseTrbl.d.ts133128317797363092 0
@@ -4748,7 +4748,7 @@
 79D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\lodash\valuesIn.js133128317838303341 0
 116D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\jsdom\lib\jsdom\living\nodes\HTMLHeadingElement-impl.js133128317821315541 0
 78D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\lodash\without.js133128317838383133 0
-70D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.dc5978fb.js133129960476422708 0
+70D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.dc5978fb.js133130677784090517 0
 76D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\lodash\words.js133128317838432996 0
 93D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\cssstyle\lib\properties\width.js133128317804046750 0
 75D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\lodash\wrap.js133128317838462914 0
@@ -7007,7 +7007,7 @@
 99D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\caniuse-lite\dist\unpacker\features.js133124596309823052 0
 88D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\watcher\binding.gyp133124652421352475 0
 97D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\caniuse-lite\dist\unpacker\region.js133124596314223430 0
-63D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.html133129960476422708 0
+63D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.html133130677784090020 0
 95D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\caniuse-lite\dist\lib\supported.js133124596315127607 0
 90D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\caniuse-lite\data\browsers.js133124596305616693 0
 87D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\caniuse-lite\data\features133124596316693024 1
@@ -8555,13 +8555,13 @@
 75D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.78bb4af9.css.map133127300716159018 0
 70D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.975ef6c8.js133129952433994417 0
 74D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.975ef6c8.js.map133129952434024346 0
-70D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.b4ae3c05.js133129960476422708 0
-74D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.b4ae3c05.js.map133129960476502498 0
+70D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.b4ae3c05.js133130677784090020 0
+74D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.b4ae3c05.js.map133130677784179134 0
 71D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.c92073ef.css133127550303088114 0
 75D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.c92073ef.css.map133127550303204136 0
 70D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.ca80ab5f.js133127300716118578 0
 74D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.ca80ab5f.js.map133127300716159018 0
-74D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.dc5978fb.js.map133129960476502498 0
+74D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.dc5978fb.js.map133130677784179134 0
 71D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.fcdf859e.css133129949880973841 0
 75D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\index.fcdf859e.css.map133129949881003757 0
 89D:\Git_Parcel_Settings\Parcel_Settings_Practice\dist\Parcel_Settings_Practice.59712999.js133124668730938709 0
