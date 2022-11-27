@@ -4,7 +4,7 @@
 79D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\yaml\browser\types133124652428473428 1
 76D:\Git_Parcel_Settings\Parcel_Settings_Practice\src\template\color-cards.hbs133129953341927945 0
 91D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\core\src\Validation.js133124652449388709 0
-60D:\Git_Parcel_Settings\Parcel_Settings_Practice\package.json133130677112044188 0
+60D:\Git_Parcel_Settings\Parcel_Settings_Practice\package.json133132389212138832 0
 93D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\postcss-merge-rules\package.json133128317739912589 0
 80D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\lodash\fp\padEnd.js133128317832268298 0
 79D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\acorn\CHANGELOG.md133124652415770283 0
@@ -20,7 +20,7 @@
 92D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\jsdom\lib\jsdom\living\aborting133128317787580235 1
 65D:\Git_Parcel_Settings\Parcel_Settings_Practice\package-lock.json133129199331041215 0
 83D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\neo-async\allSeries.js133129199321583450 0
-66D:\Git_Parcel_Settings\Parcel_Settings_Practice\src\colorpicker.js133129206687489333 0
+66D:\Git_Parcel_Settings\Parcel_Settings_Practice\src\colorpicker.js133132373666022461 0
 84D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\uuid\lib\md5-browser.js133128317740939832 0
 58D:\Git_Parcel_Settings\Parcel_Settings_Practice\.gitignore133124840116568562 0
 65D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\abab133128317749357324 1
@@ -161,7 +161,7 @@
 92D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\caniuse-lite\data\regions\CK.js133124596306241548 0
 101D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\utils\node_modules\color-convert133124652413099587 1
 77D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\is-html\index.js133128317715047669 0
-62D:\Git_Parcel_Settings\Parcel_Settings_Practice\src\index.html133129930873566752 0
+62D:\Git_Parcel_Settings\Parcel_Settings_Practice\src\index.html133132396376678536 0
 90D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\postcss-normalize-unicode\src133128317715449354 1
 125D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\workers\test\integration\workerfarm\master-process-id.js133124652423227449 0
 86D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\whatwg-encoding\README.md133128317720755146 0
@@ -176,7 +176,7 @@
 83D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\tweetnacl\package.json133128317710370908 0
 109D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\htmlnano\lib\modules\normalizeAttributeValues.js133124652423117747 0
 98D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\caniuse-lite\data\features\history.js133124596310729516 0
-60D:\Git_Parcel_Settings\Parcel_Settings_Practice\src\index.js133129952433535641 0
+60D:\Git_Parcel_Settings\Parcel_Settings_Practice\src\index.js133132375158964654 0
 93D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\postcss-merge-rules\src\index.js133128317729871035 0
 140D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser\browser.js133124652421591834 0
 76D:\Git_Parcel_Settings\Parcel_Settings_Practice\node_modules\deep-is\LICENSE133128317710737776 0

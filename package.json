@@ -3,14 +3,9 @@
   "browserslist": "> 0.25%, not dead",
   "version": "1.0.0",
   "description": "NPM basic",
-  "source": "src/index.html",
-  "main": "dist/index.js",
-  "targets": {
-    "main": false
-  },
   "scripts": {
-    "dev": "parcel",
-    "build": "parcel build"
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html"
   },
   "repository": {
     "type": "git",
